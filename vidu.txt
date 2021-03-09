@@ -1,0 +1,6 @@
+git add . => dua du lieu vao bo nho tam
+
+git commit -m"Succes" (-m"<Thong bao>") => xac nhan upload file
+
+git push => day file len git hub
+
