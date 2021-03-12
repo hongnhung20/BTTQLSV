@@ -1,0 +1,10 @@
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\bin\Debug\BTH2_WindowsForm_QLSinhVien.exe.config
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\bin\Debug\BTH2_WindowsForm_QLSinhVien.exe
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\bin\Debug\BTH2_WindowsForm_QLSinhVien.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.csprojAssemblyReference.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.Properties.Resources.resources
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.csproj.GenerateResource.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.csproj.CoreCompileInputs.cache
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.exe
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.pdb
+D:\Bai-tap\C_Sharp\WIN_FORM\BTH2_WindowsForm_QLSinhVien\BTH2_WindowsForm_QLSinhVien\obj\Debug\BTH2_WindowsForm_QLSinhVien.Form1.resources
